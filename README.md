@@ -1,18 +1,25 @@
-# Front Hamburgueria
+# 🍔 Burger Shop Frontend
 
-Projeto desafio do Módulo 13 - Continuando Aplicação com React do curso DevClub
+This is a challenge project from **Module 13 - Building Applications with React** of the DevClub course. The goal was to practice React fundamentals while creating a functional burger shop interface.
 
+---
 
-## Autores
+## 👨‍💻 Author
 
 - [@leonardodeandrade](https://www.linkedin.com/in/leonardohandrade/)
 
+---
 
-## Aprendizados
+## 📚 What I Learned
 
-Aprendi muito sobre JavaScript e React.
+This project helped me deepen my knowledge of:
 
-## Stack utilizada
+- JavaScript (ES6+)
+- React components and state management
+- UI development with best practices
 
-**Back-end:** React, JavaScript
+---
 
+## 🛠 Tech Stack
+
+**Frontend:** React, JavaScript
